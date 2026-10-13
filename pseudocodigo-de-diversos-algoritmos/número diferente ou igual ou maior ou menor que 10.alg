@@ -1,31 +1,31 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 06/04/2026
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
 nro : inteiro
 
 inicio
-// Seção de Comandos 
+// SeÃ§Ã£o de Comandos 
 
-escreval("Digite um número:")
+escreval("Digite um nÃºmero:")
 leia(nro)
 se nro = 10 entao
-escreval("Número igual a 10.")
+escreval("NÃºmero igual a 10.")
 senao
 fimse
 se nro > 10 entao
-escreval("Número maior que 10.")
+escreval("NÃºmero maior que 10.")
 senao
 fimse
 se nro < 10 entao
-escreval("Número menor que 10.")
+escreval("NÃºmero menor que 10.")
 senao
 fimse
 se nro <> 10 entao
-escreva("Número diferente de 10.")
+escreva("NÃºmero diferente de 10.")
 senao
 fimse
 
